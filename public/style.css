@@ -1,0 +1,5 @@
+exampleImage { cursor:zoom-in; }
+#localVideo:-webkit-full-screen { cursor:zoom-out; }
+#localVideo:-moz-full-screen { cursor:zoom-out; }
+#localVideo:-ms-fullscreen { cursor:zoom-out; }
+#localVideo:fullscreen { cursor:zoom-out; }
